@@ -69,6 +69,12 @@
 
 #
 
+### 🐍 Contribution Snake
+
+<img alt="github contribution snake animation" src="github-contribution-grid-snake.svg" />
+
+#
+
 ### 🔬 Research & Projects
 
 - **Freshwater Fish Species Classification Using Self-Supervised Learning** — *Accepted, ICCIT 2025*
