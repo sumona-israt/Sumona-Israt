@@ -1,9 +1,7 @@
-<h1 align="center">
-  Hi there, I'm Sumona 👋
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Sumona%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&descSize=20&descColor=c0caf5"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;MSc+in+AI+%26+Machine+Learning;Building+AI+Agents+with+Claude+%2B+n8n;Published+Researcher+%40+ICCIT+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=MSc+in+AI+%26+Machine+Learning;Building+AI+Agents+with+Claude+%2B+n8n;Published+Researcher+%40+ICCIT+2025" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -29,7 +27,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,flask,pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,git,github,flask,pytorch,tensorflow,opencv,sklearn&theme=dark" />
 </p>
 
 <p align="center">
@@ -44,13 +42,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumona-israt&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumona-israt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumona-israt&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumona-israt&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona-israt&layout=compact&hide_border=true&langs_count=8"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona-israt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 #
@@ -58,20 +56,24 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumona-israt&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=flat"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sumona-israt&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark"/>
 </p>
 
 #
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumona-israt&theme=minimal&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumona-israt&theme=tokyo-night&hide_border=true&area=true"/>
 
 #
 
 ### 🐍 Contribution Snake
 
-<img alt="github contribution snake animation" src="github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg" />
+</picture>
 
 #
 
@@ -99,3 +101,5 @@
 #
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repositories and reach out!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=120&section=footer"/>
