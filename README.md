@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Sumona%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&descSize=20&descColor=c0caf5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Sumona&fontAlign=50&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=60&descSize=20&descColor=c0caf5"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=MSc+in+AI+%26+Machine+Learning;Building+AI+Agents+with+Claude+%2B+n8n;Published+Researcher+%40+ICCIT+2025" alt="Typing SVG" />
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+**Business & IT Operations:** Client & Vendor Relationship Management, Cross-functional Coordination, Process Documentation, Escalation Handling
 
 #
 
